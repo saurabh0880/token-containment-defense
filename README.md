@@ -59,7 +59,8 @@ If you use this containment baseline or the property-based testing harness in yo
   title={Containment over Detection: A Token-Based Defense Against Prompt Injection in Production Agentic Systems with Property-Based Validation},
   author={Sharma, Saurabh and Authors, Anonymous},
   journal={arXiv preprint},
-  url={https://github.com},
+  url={https://github.com/saurabh0880/token-containment-defense},
   year={2026}
 }
+
 ```
