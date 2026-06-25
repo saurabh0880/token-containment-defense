@@ -55,9 +55,9 @@ We declare 15 architectural invariants verified across thousands of adversarial 
 If you use this containment baseline or the property-based testing harness in your security research, please cite the preprint reference layout:
 
 ```bibtex
-@article{kumar2026containment,
+@article{sharma2026containment,
   title={Containment over Detection: A Token-Based Defense Against Prompt Injection in Production Agentic Systems with Property-Based Validation},
-  author={Kumar, Saurabh and Authors, Anonymous},
+  author={Sharma, Saurabh and Authors, Anonymous},
   journal={arXiv preprint},
   url={https://github.com},
   year={2026}
