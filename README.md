@@ -1,7 +1,9 @@
-# Token-Based Containment Defense Against Prompt Injection
-
+[![Security Property Verification](https://github.com)](https://github.com)
 [![License: MIT](https://shields.io)](https://opensource.org)
 [![Security: Property-Based Verification](https://shields.io)](https://github.com)
+
+# Token-Based Containment Defense Against Prompt Injection
+
 
 This repository contains the official open-source code implementation and property-based evaluation engine for **"Containment over Detection: A Token-Based Defense Against Prompt Injection in Production Agentic Systems with Property-Based Validation"**.
 
